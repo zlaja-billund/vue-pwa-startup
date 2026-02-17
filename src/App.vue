@@ -6,13 +6,13 @@ import PWABadge from './components/PWABadge.vue'
 <template>
   <div>
     <a href="https://vite.dev" target="_blank">
-      <img src="/favicon.svg" class="logo" alt="vue-pwa-basic logo" />
+      <img src="/favicon.svg" class="logo" alt="vue-pwa-startup logo" />
     </a>
     <a href="https://vuejs.org/" target="_blank">
       <img src="./assets/vue.svg" class="logo vue" alt="Vue logo" />
     </a>
   </div>
-  <HelloWorld msg="vue-pwa-basic" />
+  <HelloWorld msg="vue-pwa-startup" />
   <PWABadge />
 </template>
 

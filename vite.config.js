@@ -14,9 +14,9 @@ export default defineConfig({
     },
 
     manifest: {
-      name: 'vue-pwa-basic',
-      short_name: 'vue-pwa-basic',
-      description: 'vue-pwa-basic',
+      name: 'vue-pwa-startup',
+      short_name: 'vue-pwa-startup',
+      description: 'vue-pwa-startup',
       theme_color: '#ffffff',
       icons: [
         {
