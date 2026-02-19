@@ -2,6 +2,9 @@
 
 A modern Progressive Web Application built with Vue 3 and Vite, featuring offline-first capabilities and installable app functionality. This repo is ready for developing your first Vue 3 PWA application.
 
+You can read more here:
+[Learn more about setting up a Vue PWA with Vite](https://zlatan.dk/post/how-to-set-up-a-vuejs-progressive-web-app-pwa-with-vite/)
+
 
 ## Prerequisites
 
